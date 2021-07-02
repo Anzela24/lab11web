@@ -262,6 +262,11 @@ Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebu
 Tambahkan method logout pada Controller User seperti berikut:
 
 ![image](https://user-images.githubusercontent.com/56473376/124318272-9707fc80-dba2-11eb-8fa3-e4ec161e161c.png)
+
+# tampilan setelah login 
+
+![image](https://user-images.githubusercontent.com/56473376/124318767-5c529400-dba3-11eb-882b-4a03d5b2b1f5.png)
+
  
 
 
